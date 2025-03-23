@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nicholas! - A fullstack student based in Lund, Sweden.
-- 👀 I’m interested in programming, music, gaming, books, coffee, fantasy and tattoos
-- 🌱 I’m currently learning programming, specifically interested in Frontend
+- 👋 Hi, I’m Nicholas! - A fullstack student based in Lund, Sweden
+- 👀 I’m interested in JS, music, gaming, books, coffee, fantasy and tattoos
+- 🌱 I’m currently learning programming, most interested in JavaScript
 - 📫 How to reach me -> https://www.kaiganhome.se/ or kaigan.codes@gmail.com
 
 <!---
