@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/kaigan94/kaigan94/blob/main/name-banner.png?raw=true" alt="Nicholas scroll banner" width="150"/>
-</p>
-
 # 🧙‍♂️ Nicholas • Apprentice of Code
 
 > A code-wielding wizard forging spells in the arcane realms of fullstack development.
