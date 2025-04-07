@@ -46,5 +46,5 @@ Right now, I’m focused on:
 ---
 
 ## 📬 Contact the Coder  
-- 🌐 [kaiganhome.se](https://www.kaiganhome.se/)  
 - 📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)
+- 🌐 [nicholas-sjostrand](https://nicholas-sjostrand.netlify.app/)
