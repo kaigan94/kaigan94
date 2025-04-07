@@ -47,4 +47,3 @@ Right now, I’m focused on:
 
 ## 📬 Contact the Coder  
 - 📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)
-- 🌐 [nicholas-sjostrand](https://nicholas-sjostrand.netlify.app/)
