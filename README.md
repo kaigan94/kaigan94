@@ -47,4 +47,5 @@ Right now, I’m focused on:
 
 ## 📬 Contact the Coder  
 - 📧 Send an owl or a mail to: [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)
+---
 (_Psst! I'm also looking for jobs or internships_)
