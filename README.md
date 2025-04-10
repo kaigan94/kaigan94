@@ -22,13 +22,13 @@ Currently learning the arts of:
 ## 🧪 Tools of the Trade  
 - ⚔️ Languages: JavaScript, HTML5, CSS3, Java  
 - 🧰 Frameworks & Libraries: Node.js, Express, React (soon)  
-- 🛠️ Tools: Git, GitHub, IntelliJ, VS Code, Figma  
+- 🛠️ Tools: Git, GitHub, IntelliJ, VS Code, Figma, Canva
 
 ---
 
 ## 📜 Side Quests  
-Beyond the code, I draw inspiration and balance from:  
-- Atmospheric heavy metal and fantasy art — fueling creativity, flow and focus  
+Beyond coding, I draw inspiration and balance from:  
+- Atmospheric metal and fantasy — fueling creativity, flow and focus  
 - Immersive fantasy worlds — from epic lore to thoughtful world-building  
 - My Shih-tzu companion — the true hero behind many late-night coding sessions  
 - Coffee — my daily brew of clarity (and occasional sanity) ☕
