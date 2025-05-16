@@ -1,51 +1,58 @@
 # 🧙‍♂️ Nicholas • Apprentice of Code
 
-> A code-wielding wizard forging spells in the arcane realms of fullstack development.
+> A frontend-focused fullstack student on a quest to build magical, user-friendly web apps.
 
 ---
 
-## 🗺️ Origin  
-📍 Based in Lund, Sweden  
-🎓 Fullstack development student with a passion for frontend magic and visual design.
+## 🗺️ Origin & Journey  
+📍 Lund, Sweden  
+🎓 Fullstack development student with a special love for design and frontend work  
+🧭 Always curious, always learning – from DOM spells to backend dungeons
 
 ---
 
-## 📚 Arcane Studies  
-Currently learning the arts of:  
-- ✨ **React.js** — component conjuration & state manipulation  
-- 🔥 **JavaScript** (ES6+) — event rituals, API summoning, DOM spells  
-- 🧱 **Backend foundations** — Node.js, Express, SQLite  
-- 🐉 **Java & Spring Boot** — soon entering the backend dungeons  
+## 🧠 What I’m Training  
+Right now, I’m sharpening my skills in:
+
+- ⚛️ **React.js** — building dynamic interfaces with components and state  
+- 🧪 **JavaScript (ES6+)** — working with APIs, DOM, events, animations  
+- 🧱 **Backend basics** — Node.js, Express, SQLite  
+- 🐉 **Java & Spring Boot** — exploring the backend lands  
 
 ---
 
-## 🧪 Tools of the Trade  
-- ⚔️ Languages: JavaScript, HTML5, CSS3, Java  
-- 🧰 Frameworks & Libraries: Node.js, Express, React (soon)  
-- 🛠️ Tools: Git, GitHub, IntelliJ, VS Code, Figma, Canva
+## 🛠️ Tools in My Inventory  
+- **Languages:** JavaScript, HTML5, CSS3, Java  
+- **Frameworks & Libraries:** Node.js, Express, React (currently learning)  
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Figma, Canva  
+- **Power-ups:**  
+  - Strong visual sense for UI/UX  
+  - Clean, structured code  
+  - Problem-solving mindset with a dash of creativity
 
 ---
 
-## 📜 Side Quests  
-Beyond coding, I draw inspiration and balance from:  
-- Atmospheric metal and fantasy — fueling creativity, flow and focus  
-- Immersive fantasy worlds — from epic lore to thoughtful world-building  
-- My Shih-tzu companion — the true hero behind many late-night coding sessions  
-- Coffee — my daily brew of clarity (and occasional sanity) ☕
+## 🌱 Side Quests & Passions  
+When I’m not coding, I recharge with:
+
+- 🎶 Atmospheric metal and fantasy soundtracks  
+- 📚 Worldbuilding, storytelling & RPGs  
+- ☕ Mana infused coffee for learning sessions
 
 ---
 
 ## 🎯 Current Goals  
-Right now, I’m focused on:  
-- Learning **React.js** and building dynamic user interfaces  
-- Strengthening my **JavaScript** skills through personal projects  
-- Exploring the fundamentals of **backend development** with Java & Spring Boot  
-- Becoming more confident in fullstack workflows and project structure  
-- Preparing for my upcoming **LIA internship** — to grow, learn, and contribute as a developer  
+- Build real-world projects with **React.js**  
+- Get better at combining **frontend + backend** into full solutions  
+- Improve my understanding of **clean code & structure**  
+- Learn as much as possible during my upcoming **LIA internship**  
+- Find a team where I can grow, contribute, and keep leveling up  
 
 ---
 
 ## 📬 Contact the Coder  
-- 📧 Send an owl or a mail to: [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)
+📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
+🛡️ Open to internships, junior dev roles, or creative web projects
+
 ---
-- ##### 📔 (_Psst! I'm also looking for jobs or internships_)
+
