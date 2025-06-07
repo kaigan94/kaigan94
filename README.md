@@ -6,53 +6,53 @@
 
 ## 🗺️ Origin & Journey  
 📍 Lund, Sweden  
-🎓 Fullstack development student with a special love for design and frontend work  
+🎓 Fullstack development student with a passion for frontend design and user experience  
 🧭 Always curious, always learning – from DOM spells to backend dungeons
 
 ---
 
-## 🧠 What I’m Training  
-Right now, I’m sharpening my skills in:
+## 🧠 Current Training  
+Right now, I'm leveling up in:
 
-- ⚛️ **React.js** — building dynamic interfaces with components and state  
-- 🧪 **JavaScript (ES6+)** — working with APIs, DOM, events, animations  
-- 🧱 **Backend basics** — Node.js, Express, SQLite  
-- 🐉 **Java & Spring Boot** — exploring the backend lands  
+- ⚛️ **React.js** – building dynamic UIs with components, props & state  
+- 🧪 **JavaScript (ES6+)** – working with APIs, DOM, events & animations  
+- 🧱 **Backend basics** – Node.js, Express & SQLite  
+- ☕ **Java & Spring Boot** – exploring the backend world
 
 ---
 
 ## 🛠️ Tools in My Inventory  
-- **Languages:** JavaScript, HTML5, CSS3, Java  
-- **Frameworks & Libraries:** Node.js, Express, React (currently learning)  
-- **Tools:** Git, GitHub, VS Code, IntelliJ, Figma, Canva  
+- **Languages:** JavaScript, HTML, CSS, Java  
+- **Frameworks & Libraries:** React (learning), Node.js, Express  
+- **Dev Tools:** Git, GitHub, VS Code, IntelliJ, Figma, Canva  
 - **Power-ups:**  
-  - Strong visual sense for UI/UX  
-  - Clean, structured code  
-  - Problem-solving mindset with a dash of creativity
+  - Clean & readable code  
+  - UI/UX thinking  
+  - Creative problem-solving  
 
 ---
 
-## 🌱 Side Quests & Passions  
+## 🌱 Side Quests  
 When I’m not coding, I recharge with:
 
-- 🎶 Atmospheric metal and fantasy soundtracks  
-- 📚 Worldbuilding, storytelling & RPGs  
-- ☕ Mana infused coffee for learning sessions
+- 🎶 Atmospheric metal, fantasy soundtracks & epic battle themes  
+- 🎮 RPG games that spark ideas for design, storytelling & systems  
+- 📚 Worldbuilding, character creation & a bit of nerdy lore digging  
+- 🐾 Long walks with my dog 
+- ☕ Coffee – my daily dose of mana!
+
 
 ---
 
 ## 🎯 Current Goals  
-- Build real-world projects with **React.js**  
-- Get better at combining **frontend + backend** into full solutions  
-- Improve my understanding of **clean code & structure**  
-- Learn as much as possible during my upcoming **LIA internship**  
-- Find a team where I can grow, contribute, and keep leveling up  
+- Build cool stuff with **React.js**  
+- Learn to connect **frontend + backend** smoothly  
+- Improve my understanding of **clean code & architecture**  
+- Soak up experience during my upcoming **LIA internship**  
+- Join a dev team where I can grow, contribute & have fun
 
 ---
 
-## 📬 Contact the Coder  
+## 📬 Let’s Connect  
 📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
-🛡️ Open to internships, junior dev roles, or creative web projects
-
----
-
+🔗 Looking for LIA (internship), junior roles, or creative dev projects
