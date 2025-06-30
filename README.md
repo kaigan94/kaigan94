@@ -50,5 +50,5 @@ When I’m not coding, I recharge with:
 
 ## 📬 Reach me here!
 📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
-📔 https://nicholas-sjostrand.netlify.app/
+📔 https://nicholas-sjostrand.netlify.app/  
 🔗 Looking for LIA (internship) and junior roles!
