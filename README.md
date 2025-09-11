@@ -5,9 +5,9 @@
 ---
 
 ## 🗺️ Origin & Journey  
-📍 Lund, Sweden  
-🎓 Fullstack development student with a passion for frontend, crazy ideas and UI design 
-🧭 Curious & always looking for ways to learn and improve
+- 📍 Lund, Sweden  
+- 🎓 Fullstack dev student with a passion for frontend, crazy ideas and UI design 
+- 🧠 Curious & always looking for ways to learn and improve
 
 ---
 
