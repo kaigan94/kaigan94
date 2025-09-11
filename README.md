@@ -6,7 +6,7 @@
 
 ## 🗺️ Origin & Journey  
 📍 Lund, Sweden  
-🎓 Fullstack development student with a passion for frontend and UI design 
+🎓 Fullstack development student with a passion for frontend, crazy ideas and UI design 
 🧭 Curious & always looking for ways to learn and improve
 
 ---
@@ -15,27 +15,29 @@
 Right now, I'm leveling up in:
 
 - ⚛️ **React** – building dynamic UIs with components, props & state  
-- 🧪 **JavaScript** – working with APIs, DOM, events & animations  
-- 🧱 **Backend basics** – Node.js & MySQL
-- ☕ **Java & Spring Boot** – exploring the backend dungeons
+- 🟦 **TypeScript** – adding strong typing to JavaScript  
+- ▲ **Next.js** – exploring modern React patterns & SSR  
+- 🌌 **Three.js** – creating 3D experiences with WebGL
 
----
+## 🏰 Skills & Knowledge
+- **Languages:** JavaScript, HTML, CSS, Java, SQL (MySQL & SQLite)
+- **Frameworks & Libraries:** Node.js, Express.js, Tailwind CSS, Spring Boot, Spring Security
+- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Figma, Canva
 
-## 🎒 My Inventory
-- **Languages:** JavaScript, HTML, CSS, Java 
-- **Frameworks & Libraries:** React (learning), Node.js, Express, Tailwind CSS
-- **Dev Tools:** Git, GitHub, VS Code, IntelliJ, Figma, Canva
+## 🚀 Exploring Backend
+- 🧱 **Node.js & MySQL** – building REST APIs & databases  
+- ☕ **Java & Spring Boot** – exploring enterprise backend development
 
 ---
 
 ## 🗡️ Side Quests
 When I’m not coding, I recharge with:
 
-- 🎶 Atmospheric metal, fantasy soundtracks & epic battle themes  
-- 🎮 RPG video games and board games
-- 📚 Worldbuilding, character creation & a bit of lore digging  
-- 🐾 Chilling with my dog & spending time with my partner and family
-- ☕ Coffee – my daily dose of mana!
+- 🎶 Metal, fantasy soundtracks & epic battle themes  
+- 🎮 Playing video games & board games
+- 📚 Worldbuilding, character creation and a bit of lore digging  
+- 🐾 Chilling with my dog and spending time with my partner & family
+- ☕ Coffee - my daily dose of mana ;)
 
 ---
 
@@ -43,7 +45,7 @@ When I’m not coding, I recharge with:
 - Build cool stuff with **React**  
 - Learn to connect **frontend + backend** in a smooth way
 - Improve my understanding of **clean code & architecture**  
-- Level up my experience during my upcoming **LIA internship**  
+- Level up my experience during my upcoming **6 month LIA internship (STARTING DECEMBER 8, 2025!)**  
 - Join a dev team where I can grow, contribute, have fun & be myself
 
 ---
@@ -51,4 +53,4 @@ When I’m not coding, I recharge with:
 ## 📬 Reach me here!
 📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
 📔 https://nicholas-sjostrand.netlify.app/  
-🔗 Looking for LIA (internship) and junior roles!
+🔗 Looking for LIA (internship) and junior roles - help me build my future :)
