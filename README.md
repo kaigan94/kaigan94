@@ -4,26 +4,26 @@
 
 ---
 
-## 🗺️ Origin & Journey  
-- 📍 Lund, Sweden  
+## 🌍 Origin & Journey  
+- Lund, Sweden  
 - Fullstack dev student with a passion for frontend, crazy ideas and UI design 
 - Curious & always looking for ways to learn and improve
 
 ---
 
-## 🧠 Currently Learning  
+## 💭 Currently Learning  
 Right now, I'm leveling up in:
 
-- ⚛**React** – building dynamic UIs with components, props & state  
+- **React** – building dynamic UIs with components, props & state  
 - **TypeScript** – adding strong typing to JavaScript  
 - **Next.js** – exploring modern React patterns & SSR  
 
-## 🏰 Skills & Knowledge
+## 🧠 Skills & Knowledge
 - **Languages:** JavaScript, HTML, CSS, Java, SQL (MySQL & SQLite)
 - **Frameworks & Libraries:** Node.js, Express.js, Tailwind CSS, Spring Boot, Spring Security
 - **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Figma, Canva
 
-## 🚀 Exploring Backend
+## 🗺️ Exploring Backend
 - **Node.js & MySQL** – building REST APIs & databases  
 - **Java & Spring Boot** – exploring enterprise backend development
 
