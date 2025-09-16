@@ -6,18 +6,17 @@
 
 ## 🗺️ Origin & Journey  
 - 📍 Lund, Sweden  
-- 🎓 Fullstack dev student with a passion for frontend, crazy ideas and UI design 
-- 👀 Curious & always looking for ways to learn and improve
+- Fullstack dev student with a passion for frontend, crazy ideas and UI design 
+- Curious & always looking for ways to learn and improve
 
 ---
 
 ## 🧠 Currently Learning  
 Right now, I'm leveling up in:
 
-- ⚛️ **React** – building dynamic UIs with components, props & state  
-- 🟦 **TypeScript** – adding strong typing to JavaScript  
-- ▲ **Next.js** – exploring modern React patterns & SSR  
-- 🌌 **Three.js** – creating 3D experiences with WebGL
+- ⚛**React** – building dynamic UIs with components, props & state  
+- **TypeScript** – adding strong typing to JavaScript  
+- **Next.js** – exploring modern React patterns & SSR  
 
 ## 🏰 Skills & Knowledge
 - **Languages:** JavaScript, HTML, CSS, Java, SQL (MySQL & SQLite)
@@ -25,19 +24,19 @@ Right now, I'm leveling up in:
 - **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Figma, Canva
 
 ## 🚀 Exploring Backend
-- 🧱 **Node.js & MySQL** – building REST APIs & databases  
-- ☕ **Java & Spring Boot** – exploring enterprise backend development
+- **Node.js & MySQL** – building REST APIs & databases  
+- **Java & Spring Boot** – exploring enterprise backend development
 
 ---
 
 ## 🗡️ Side Quests
 When I’m not coding, I recharge with:
 
-- 🎶 Metal, fantasy soundtracks & epic battle themes  
-- 🎮 Playing video games & board games
-- 📚 Worldbuilding, character creation and a bit of lore digging  
-- 🐾 Chilling with my dog and spending time with my partner & family
-- ☕ Coffee - my daily dose of mana ;)
+- Metal, fantasy soundtracks & epic battle themes  
+- Playing video games & board games
+- Worldbuilding, character creation and a bit of lore digging  
+- Chilling with my dog and spending time with my partner & family
+- Coffee - my daily dose of mana ;)
 
 ---
 
