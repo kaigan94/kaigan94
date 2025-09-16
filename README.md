@@ -1,6 +1,8 @@
 # 🧙‍♂️ Nicholas • Apprentice of Code
 
 > A frontend-focused fullstack student on a grand quest to build magical & clean user-friendly web apps.
+> ❕ Looking for LIA (internship) and junior roles - help me build my future :)
+
 
 ---
 
@@ -52,4 +54,3 @@ When I’m not coding, I recharge with:
 ## 📬 Reach me here!
 📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
 📔 https://nicholas-sjostrand.netlify.app/  
-🔗 Looking for LIA (internship) and junior roles - help me build my future :)
