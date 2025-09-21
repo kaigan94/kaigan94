@@ -1,7 +1,7 @@
 # 🧙‍♂️ Nicholas · Apprentice of Code
 
 > A frontend-focused fullstack student on a grand quest to build magical & clean user-friendly web apps.  
-> Looking for LIA (internship) and junior roles - help me build my future :)
+> Looking for LIA (internship) and junior roles - help me build my future :)  
 > Check out my Portfolio here! ↓↓  
 https://kaigan-portfolio.vercel.app/
 
